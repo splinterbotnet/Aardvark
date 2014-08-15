@@ -1,0 +1,4 @@
+0.0
+	-Initial BETA creation
+	-Base download and launch created for Splinter RAT GUI instance only
+	-More development to come...
